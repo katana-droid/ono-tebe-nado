@@ -100,8 +100,13 @@
     width: 100%;
 }
 
-.title span:nth-child(2) { align-self: center; }
-.title span:nth-child(3) { 
+.title span:nth-child(2)
+{
+    align-self: center;
+}
+
+.title span:nth-child(3)
+{ 
     align-self: flex-end;
     margin-right: -30px;    
 }
